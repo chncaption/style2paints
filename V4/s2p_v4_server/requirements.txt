@@ -9,3 +9,4 @@ numba==0.53.1
 tqdm
 paste
 
+pillow>=10.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
